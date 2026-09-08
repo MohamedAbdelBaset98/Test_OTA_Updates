@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "target_regions": ["ALL"],
+  "target_machines": ["ALL"],
+  "firmware_url": "",
+  "sha256": ""
+}
