@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "target_machines": ["ALL"],
-  "firmware_url": "",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  "firmware_url": "https://raw.githubusercontent.com/MohamedAbdelBaset98/Test_OTA_Updates/main/releases/firmware.bin",
+  "sha256": "16592BF6D1EAEC08F140CEDD7BAC87CBE62D2A839D9FC3D6E86A456870C5A11C"
 }
